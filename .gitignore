@@ -1,0 +1,25 @@
+# Build directories
+target/
+build/
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Maven wrapper (optional)
+.mvn/wrapper/maven-wrapper.jar
+
+# Temporary files
+*.tmp
